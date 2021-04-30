@@ -25,6 +25,6 @@ E para executar, ainda no mesmo repositório do programa, use :
 **Editor/IDE:** VisualStudio Code 1.54.2.  
 **Compilador:** G++ 7.4.0.
 
-##Licença
+## Licença
 
 Licenciado sob a [MIT License](./LICENSE).
