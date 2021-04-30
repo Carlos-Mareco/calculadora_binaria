@@ -1,6 +1,6 @@
 # Calculadora de binários
 
-Ler dois valores inteiros do arquivo [decimais.txt](./decimais.txt) e calcula a soma de dois binários de 8 bits.
+Ler dois valores inteiros de cada linha do arquivo [decimais.txt](./decimais.txt) e converte em binários de 8 bits. Se os valores estivem corretos, então ele realiza as operações de soma e subtração desses binários e exibe na tela.
 
 ## Compilação e execução
 
