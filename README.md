@@ -18,13 +18,17 @@ E para executar, ainda no mesmo repositório do programa, use :
 
 ## Ambiente de criação e teste
 
-**Informação do OS:** Linux Mint 19.2 Cinnamon.  
-**Kernel do Linux:** 4.15.0-54-generic.  
-**Processador:** Intel© Core™ i7-7500U CPU @ 2.70GHz × 2.  
-**Memória:** 7.7 GiB.  
-**Editor/IDE:** [Visual Studio Code 1.54.2](https://code.visualstudio.com/).
-**Compilador:** G++ 7.4.0.
+**Informação do OS:** Linux Mint 19.2 Cinnamon.<br>
+**Kernel do Linux:** 4.15.0-54-generic.<br>
+**Processador:** Intel© Core™ i7-7500U CPU @ 2.70GHz × 2.<br>
+**Memória:** 7.7 GiB.<br>
+**Editor/IDE:** [Visual Studio Code 1.54.2](https://code.visualstudio.com/).<br>
+**Compilador:** G++ 7.4.0.<br>
 
 ## Licença
 
 Licenciado sob a [MIT License](./LICENSE).
+
+## Considerações finais
+
+Este programa faz parte de um dos componentes avaliativos da disciplina de Eletrônica Digital I do Curso de Ciência da Computação da Universidade Federal do Amapá.
